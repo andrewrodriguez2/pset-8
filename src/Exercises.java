@@ -5,7 +5,7 @@ public class Exercises {
 			return false;
 		}
 		
-		// write your code here
+		// write your code here.
 		
 		return false;	// default return value to ensure compilation
 	}
